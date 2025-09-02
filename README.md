@@ -66,7 +66,7 @@ MDN Web Docs
 <input id="email" name="email" type="email" required>
 </p>
 <p>
-<label for="mensagem">Mensagem</label><br>
+<label for="mensagem">Muito obrigado por ler até aqui!</label><br>
 <textarea id="mensagem" name="mensagem" rows="4"
 required></textarea>
 </p>
