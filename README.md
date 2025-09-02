@@ -54,6 +54,31 @@ MDN Web Docs
 <p>Estruturação de conteúdo com títulos, parágrafos e imagens.</p>
 </article>
 </section>
+<section id="contato">
+<h2>Contato</h2>
+<form action="#" method="post">
+<p>
+<label for="nome">Nome</label><br>
+<input id="nome" name="nome" type="text" required>
+</p>
+<p>
+<label for="email">E-mail</label><br>
+<input id="email" name="email" type="email" required>
+</p>
+<p>
+<label for="mensagem">Mensagem</label><br>
+<textarea id="mensagem" name="mensagem" rows="4"
+required></textarea>
+</p>
+<p>
+<button type="submit">Enviar</button>
+</p>
+</form>
 </section>
+</section>
+</main>
+<footer>
+<small>&copy; 2025 Gustavo Franco. Todos os direitos reservados.</small>
+</footer>
 </body>
 </html>
