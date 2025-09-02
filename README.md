@@ -62,7 +62,7 @@ MDN Web Docs
 <input id="nome" name="nome" type="text" required>
 </p>
 <p>
-<label for="email">E-mail</label><br>
+<label for="email">gustavo.franco.lima@escola.pr.gov.br</label><br>
 <input id="email" name="email" type="email" required>
 </p>
 <p>
