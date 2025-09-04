@@ -28,7 +28,7 @@
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou Gustavo e gosto de comer pizza, fazer contas matemáticas e manhwas!
+Olá! Sou Gustavo, gosto de aprender coisas novas e matemática!
 </p>
   <section id="projetos">
 <h2>Projetos</h2>
