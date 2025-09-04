@@ -24,7 +24,7 @@
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
-<img src="https://files.fm/f/4d2gwk97g9" alt="Foto de Gustavo SÉRIO >:( .">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperpizzapan.com.br%2Fcardapio%2F&psig=AOvVaw0hj1ErvWttj_Z35yQkST_S&ust=1757079005321000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLD5o8Kbv48DFQAAAAAdAAAAABAE" alt="Foto de Gustavo SÉRIO >:( .">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
